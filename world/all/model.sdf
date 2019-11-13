@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<sdf version='1.6'>
+  <model name='all'>
+    <static>0</static>
+    <allow_auto_disable>1</allow_auto_disable>
+    <plugin name='helloworld' filename='libHelloWorldPlugin.so'/>
+  </model>
+</sdf>
